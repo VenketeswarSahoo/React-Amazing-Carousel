@@ -1,5 +1,3 @@
-# React + Vite
-
 #### Folders are used:
 - App.jsx
 - index.css
